@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<server description="${project.name}">
+
+    <featureManager>
+        <feature>microProfile-3.2</feature>
+        <feature>jdbc-4.2</feature>
+        <feature>cdi-2.0</feature>
+        <feature>jpa-2.2</feature>
+    </featureManager>
+
+    <httpEndpoint id="defaultHttpEndpoint"
+                  httpPort="8181"
+                  httpsPort="8543"/>
+
+    <webApplication location="${project.name}.war" contextRoot="/"/>
+    <mpMetrics authentication="false"/>
+
+    <dataSource id="defaultDataSource" jndiName="jdbc/postgresql">
+        <jdbcDriver libraryRef="postgresql-library"/>
+        <properties.postgresql serverName="localhost" portNumber="5436"
+                               databaseName="postgres" user="postgres" password="Kava123"/>
+    </dataSource>
+
+    <!-- This is the keystore that will be used by SSL and by JWT. -->
+    <keyStore id="defaultKeyStore" location="public.jks" type="JKS" password="atbash" />
+
+
+    <!-- The MP JWT configuration that injects the caller's JWT into a ResourceScoped bean for inspection. -->
+    <mpJwt id="jwtUserConsumer" keyName="theKeyId" audiences="targetService" issuer="${jwt.issuer}"/>
+
+    <library id="postgresql-library">
+        <file name="${server.config.dir}/postgresql-42.2.8.jar"/>
+    </library>
+
+
+</server>

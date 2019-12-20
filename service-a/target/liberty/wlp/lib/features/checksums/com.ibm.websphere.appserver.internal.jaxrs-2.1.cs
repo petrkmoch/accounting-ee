@@ -1,0 +1,19 @@
+#Fri Dec 20 19:26:08 CET 2019
+lib/com.ibm.ws.org.apache.cxf.cxf.rt.rs.service.description.3.2_1.0.35.jar=411c8594991292c4c32bd7023690cc39
+lib/com.ibm.ws.org.apache.cxf.cxf.rt.frontend.jaxrs.3.2_1.0.35.jar=86f30e4f3bfdc4aeb4978b39430fa7f6
+lib/com.ibm.ws.jaxrs.2.0.server_1.0.35.jar=dcae256c603978d5f4e37a318cef2fe6
+lib/com.ibm.ws.jaxrs.2.0.client_1.0.35.jar=9e50fd019db8ca54a8f654375ff818eb
+lib/com.ibm.ws.jaxrs.2.0.web_1.0.35.jar=b24d10208c48fb8714a2ccf2adc8289e
+lib/com.ibm.ws.jaxrs.2.x.config_1.0.35.jar=b4835fd9ec3823a0da8837ea023f1e89
+lib/com.ibm.ws.org.apache.cxf.cxf.rt.rs.sse.3.2_1.0.35.jar=52812f8e742f7c253c045ef5bfc2d225
+lib/com.ibm.ws.org.apache.cxf.cxf.rt.rs.client.3.2_1.0.35.jar=1c164ce5acf5aa8fe0c22ddcba2f0618
+dev/api/ibm/com.ibm.websphere.appserver.api.jaxrs20_1.0.35.jar=2bac632f1fd26b833f70cfeb9a3c2b9e
+lib/com.ibm.ws.org.apache.cxf.cxf.tools.common.3.2_1.0.35.jar=77c7fcde440f1f4006a6f1baa27f44aa
+bin/jaxrs/wadl2java.bat=618f62d1ea9b747dcbe59acad580189c
+bin/jaxrs/tools/wadl2java.jar=5d00d9025303d43853286611d1de4a3a
+lib/com.ibm.ws.jaxrs.2.1.common_1.0.35.jar=acd6204e2f8dd7c339fdb92e22173972
+lib/com.ibm.ws.jaxrs.2.0.tools_1.0.35.jar=d72a41724507507f1f01c2a9a0cac656
+bin/jaxrs/wadl2java=8c1f6a7b7ae800d88c6c81abc2bfcb52
+lib/com.ibm.ws.org.apache.cxf.cxf.rt.transports.http.hc.3.2_1.0.35.jar=9a82bc8c2cfc56d873d79a974a5e0241
+lib/features/com.ibm.websphere.appserver.internal.jaxrs-2.1.mf=05ce06c4d6ba5f6458ecbe9b56d971de
+lib/com.ibm.ws.org.apache.cxf.cxf.tools.wadlto.jaxrs.3.2_1.0.35.jar=c61e3b91466154a0f33e0dc25f7ff7d4

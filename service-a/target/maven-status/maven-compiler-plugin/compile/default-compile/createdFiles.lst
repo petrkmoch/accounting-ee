@@ -1,0 +1,17 @@
+com\example\demo\client\ClientController.class
+com\example\demo\resilient\ResilienceController.class
+com\example\demo\DemoRestApplication.class
+com\example\demo\entities\GlAccountType.class
+com\example\demo\HelloController.class
+com\example\demo\CorsFilter.class
+com\example\demo\metric\MetricController.class
+com\example\demo\config\ConfigTestController.class
+com\example\demo\health\ServiceLiveHealthCheck.class
+com\example\demo\JdbcDatasourceVerifier.class
+com\example\demo\health\ServiceReadyHealthCheck.class
+com\example\demo\GlAccountResource.class
+com\example\demo\GlAcountDao.class
+com\example\demo\secure\TestSecureController.class
+com\example\demo\client\Service.class
+com\example\demo\secure\MPJWTToken.class
+com\example\demo\entities\GlAccount.class

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+    <dir sourceOnDisk="C:\Users\PetrKmoch\IdeaProjects\demoMicroLiberty\service-a\src\main\webapp" targetInArchive="/"/>
+    <dir sourceOnDisk="C:\Users\PetrKmoch\IdeaProjects\demoMicroLiberty\service-a\target\classes" targetInArchive="/WEB-INF/classes"/>
+    <file sourceOnDisk="C:\Users\PetrKmoch\.m2\repository\javax\transaction\javax.transaction-api\1.2\javax.transaction-api-1.2.jar" targetInArchive="/WEB-INF/lib/javax.transaction-api-1.2.jar"/>
+    <file sourceOnDisk="C:\Users\PetrKmoch\.m2\repository\io\vertx\vertx-auth-jwt\3.8.1\vertx-auth-jwt-3.8.1.jar" targetInArchive="/WEB-INF/lib/vertx-auth-jwt-3.8.1.jar"/>
+    <file sourceOnDisk="C:\Users\PetrKmoch\.m2\repository\io\vertx\vertx-auth-common\3.8.1\vertx-auth-common-3.8.1.jar" targetInArchive="/WEB-INF/lib/vertx-auth-common-3.8.1.jar"/>
+    <file sourceOnDisk="C:\Users\PetrKmoch\.m2\repository\io\vertx\vertx-jwt\3.8.1\vertx-jwt-3.8.1.jar" targetInArchive="/WEB-INF/lib/vertx-jwt-3.8.1.jar"/>
+    <file sourceOnDisk="C:\Users\PetrKmoch\.m2\repository\io\vertx\vertx-core\3.8.1\vertx-core-3.8.1.jar" targetInArchive="/WEB-INF/lib/vertx-core-3.8.1.jar"/>
+    <file sourceOnDisk="C:\Users\PetrKmoch\.m2\repository\io\netty\netty-common\4.1.39.Final\netty-common-4.1.39.Final.jar" targetInArchive="/WEB-INF/lib/netty-common-4.1.39.Final.jar"/>
+    <file sourceOnDisk="C:\Users\PetrKmoch\.m2\repository\io\netty\netty-buffer\4.1.39.Final\netty-buffer-4.1.39.Final.jar" targetInArchive="/WEB-INF/lib/netty-buffer-4.1.39.Final.jar"/>
+    <file sourceOnDisk="C:\Users\PetrKmoch\.m2\repository\io\netty\netty-transport\4.1.39.Final\netty-transport-4.1.39.Final.jar" targetInArchive="/WEB-INF/lib/netty-transport-4.1.39.Final.jar"/>
+    <file sourceOnDisk="C:\Users\PetrKmoch\.m2\repository\io\netty\netty-handler\4.1.39.Final\netty-handler-4.1.39.Final.jar" targetInArchive="/WEB-INF/lib/netty-handler-4.1.39.Final.jar"/>
+    <file sourceOnDisk="C:\Users\PetrKmoch\.m2\repository\io\netty\netty-codec\4.1.39.Final\netty-codec-4.1.39.Final.jar" targetInArchive="/WEB-INF/lib/netty-codec-4.1.39.Final.jar"/>
+    <file sourceOnDisk="C:\Users\PetrKmoch\.m2\repository\io\netty\netty-handler-proxy\4.1.39.Final\netty-handler-proxy-4.1.39.Final.jar" targetInArchive="/WEB-INF/lib/netty-handler-proxy-4.1.39.Final.jar"/>
+    <file sourceOnDisk="C:\Users\PetrKmoch\.m2\repository\io\netty\netty-codec-socks\4.1.39.Final\netty-codec-socks-4.1.39.Final.jar" targetInArchive="/WEB-INF/lib/netty-codec-socks-4.1.39.Final.jar"/>
+    <file sourceOnDisk="C:\Users\PetrKmoch\.m2\repository\io\netty\netty-codec-http\4.1.39.Final\netty-codec-http-4.1.39.Final.jar" targetInArchive="/WEB-INF/lib/netty-codec-http-4.1.39.Final.jar"/>
+    <file sourceOnDisk="C:\Users\PetrKmoch\.m2\repository\io\netty\netty-codec-http2\4.1.39.Final\netty-codec-http2-4.1.39.Final.jar" targetInArchive="/WEB-INF/lib/netty-codec-http2-4.1.39.Final.jar"/>
+    <file sourceOnDisk="C:\Users\PetrKmoch\.m2\repository\io\netty\netty-resolver\4.1.39.Final\netty-resolver-4.1.39.Final.jar" targetInArchive="/WEB-INF/lib/netty-resolver-4.1.39.Final.jar"/>
+    <file sourceOnDisk="C:\Users\PetrKmoch\.m2\repository\io\netty\netty-resolver-dns\4.1.39.Final\netty-resolver-dns-4.1.39.Final.jar" targetInArchive="/WEB-INF/lib/netty-resolver-dns-4.1.39.Final.jar"/>
+    <file sourceOnDisk="C:\Users\PetrKmoch\.m2\repository\io\netty\netty-codec-dns\4.1.39.Final\netty-codec-dns-4.1.39.Final.jar" targetInArchive="/WEB-INF/lib/netty-codec-dns-4.1.39.Final.jar"/>
+    <file sourceOnDisk="C:\Users\PetrKmoch\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.9\jackson-core-2.9.9.jar" targetInArchive="/WEB-INF/lib/jackson-core-2.9.9.jar"/>
+    <file sourceOnDisk="C:\Users\PetrKmoch\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.9.1\jackson-databind-2.9.9.1.jar" targetInArchive="/WEB-INF/lib/jackson-databind-2.9.9.1.jar"/>
+    <file sourceOnDisk="C:\Users\PetrKmoch\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar" targetInArchive="/WEB-INF/lib/jackson-annotations-2.9.0.jar"/>
+    <file sourceOnDisk="C:\Users\PetrKmoch\.m2\repository\javax\persistence\javax.persistence-api\2.2\javax.persistence-api-2.2.jar" targetInArchive="/WEB-INF/lib/javax.persistence-api-2.2.jar"/>
+    <file sourceOnDisk="C:\Users\PetrKmoch\IdeaProjects\demoMicroLiberty\service-a\target\tmp\META-INF\MANIFEST.MF" targetInArchive="/META-INF/MANIFEST.MF"/>
+</archive>
