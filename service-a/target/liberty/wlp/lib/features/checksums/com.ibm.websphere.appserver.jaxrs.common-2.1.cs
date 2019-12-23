@@ -1,4 +1,4 @@
-#Fri Dec 20 19:26:05 CET 2019
+#Sun Dec 22 23:51:20 CET 2019
 bin/jaxrs/wadl2java=8c1f6a7b7ae800d88c6c81abc2bfcb52
 dev/api/spec/com.ibm.websphere.javaee.jws.1.0_1.0.35.jar=b2c23987f8f7b9d491772de2afb8a0cb
 dev/api/ibm/com.ibm.websphere.appserver.api.jaxrs20_1.0.35.jar=2bac632f1fd26b833f70cfeb9a3c2b9e

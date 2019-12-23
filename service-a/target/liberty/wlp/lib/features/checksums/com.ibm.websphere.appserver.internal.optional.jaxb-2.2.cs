@@ -1,4 +1,4 @@
-#Fri Dec 20 19:25:59 CET 2019
+#Sun Dec 22 23:51:08 CET 2019
 dev/api/spec/com.ibm.websphere.javaee.activation.1.1_1.0.35.jar=4ab6d2935dcdde99bd76319deaa195c5
 lib/com.ibm.ws.org.apache.geronimo.osgi.registry.1.1_1.0.35.jar=580686cc3eb0cdda05cea29a2a6c8e31
 lib/com.ibm.ws.jaxb.tools.2.2.10_1.0.35.jar=284e59fdfc3c64d44dea79f15a9ac561

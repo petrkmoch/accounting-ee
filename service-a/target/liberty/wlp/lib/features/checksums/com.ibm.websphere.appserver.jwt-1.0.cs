@@ -1,4 +1,4 @@
-#Fri Dec 20 19:26:13 CET 2019
+#Sun Dec 22 23:51:28 CET 2019
 lib/com.ibm.ws.com.google.gson.2.2.4_1.0.35.jar=47b0e2d94018c1487b019e9e5bece0ce
 lib/com.ibm.ws.org.slf4j.api.1.7.7_1.0.35.jar=f7b6b8dfd79c8cbf0d36c66d2514dbe9
 lib/features/com.ibm.websphere.appserver.jwt-1.0.mf=cb976e4538a51834b8073db64f829cfa

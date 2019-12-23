@@ -1,4 +1,4 @@
-#Fri Dec 20 19:25:58 CET 2019
+#Sun Dec 22 23:51:01 CET 2019
 dev/api/ibm/com.ibm.websphere.appserver.api.basics_1.3.35.jar=a12e3c419e95933f72e5546dd587c3f6
 lib/features/com.ibm.websphere.appserver.appmanager-1.0.mf=f0dbc2d7ab7e2bbb1fecdaac2a3f84d5
 lib/com.ibm.ws.app.manager.ready_1.0.35.jar=a81015cb6a7ef9d9e82ae9d637de25d7

@@ -1,4 +1,4 @@
-#Fri Dec 20 19:25:55 CET 2019
+#Sun Dec 22 23:50:44 CET 2019
 lib/com.ibm.ws.artifact.equinox.module_1.0.35.jar=a54be792c63ae21017f43820a4061aed
 dev/spi/ibm/com.ibm.websphere.appserver.spi.artifact_1.2.35.jar=fbed5addcb4a14a8b2f4eaa9f83a771c
 lib/com.ibm.ws.classloading.configuration_1.0.35.jar=9489a7ddfcb9c4d371898d496efd0218

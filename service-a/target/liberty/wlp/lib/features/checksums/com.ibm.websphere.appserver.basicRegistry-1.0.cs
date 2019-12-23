@@ -1,4 +1,4 @@
-#Fri Dec 20 19:26:06 CET 2019
+#Sun Dec 22 23:51:21 CET 2019
 lib/com.ibm.ws.security.registry_1.0.35.jar=17b53353bb06c0ac4eac80368945a933
 lib/features/com.ibm.websphere.appserver.basicRegistry-1.0.mf=dfd6d8769abaabbf6ea46227f68da07b
 lib/com.ibm.ws.security.registry.basic_1.0.35.jar=6fe0bd13cb1b5217da1cefd2ca54e53e

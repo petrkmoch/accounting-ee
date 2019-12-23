@@ -1,4 +1,4 @@
-#Fri Dec 20 19:26:19 CET 2019
+#Sun Dec 22 23:51:42 CET 2019
 lib/com.ibm.ws.security.mp.jwt.propagation_1.0.35.jar=0c85c25ca72b3727d8bec605affca4c3
 lib/features/com.ibm.websphere.appserver.mpJwtPropagation-1.0.mf=4d97637cf26133a100a434b2b4e5ec36
 dev/api/stable/com.ibm.websphere.org.eclipse.microprofile.jwt.1.0_1.0.35.jar=3da6e9b75bb3101cd1c57ecfc2dd4607

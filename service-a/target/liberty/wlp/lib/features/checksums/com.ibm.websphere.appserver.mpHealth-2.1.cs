@@ -1,4 +1,4 @@
-#Fri Dec 20 19:26:16 CET 2019
+#Sun Dec 22 23:51:32 CET 2019
 lib/features/com.ibm.websphere.appserver.mpHealth-2.1.mf=34cd43fe150adcd07568bdad3bf8f93a
 lib/com.ibm.websphere.jsonsupport_1.0.35.jar=3a043bee1d3db3fc28c598cb91f71628
 lib/com.ibm.ws.microprofile.health.2.0_1.0.35.jar=9c0b5df8589b273e376cda96038d5594

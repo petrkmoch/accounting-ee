@@ -1,4 +1,4 @@
-#Fri Dec 20 19:26:06 CET 2019
+#Sun Dec 22 23:51:21 CET 2019
 lib/com.ibm.ws.security.authentication_1.0.35.jar=55a8a5399f4287e8c5b5b839c11a2935
 lib/features/com.ibm.websphere.appserver.builtinAuthentication-1.0.mf=fb4ad1c46236bd6d7828b07bb59ac91d
 lib/com.ibm.ws.security.jaas.common_1.0.35.jar=74d09857fb2da47d4b6f9ed09e5addf3

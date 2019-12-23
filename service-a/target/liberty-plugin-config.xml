@@ -3,13 +3,13 @@
     <activeBuildProfiles>
         <profileId>liberty</profileId>
     </activeBuildProfiles>
-    <installDirectory>C:\Users\PetrKmoch\IdeaProjects\demoMicroLiberty\service-a\target\liberty\wlp</installDirectory>
-    <serverDirectory>C:\Users\PetrKmoch\IdeaProjects\demoMicroLiberty\service-a\target\liberty\wlp\usr\servers\demo</serverDirectory>
-    <userDirectory>C:\Users\PetrKmoch\IdeaProjects\demoMicroLiberty\service-a\target\liberty\wlp\usr</userDirectory>
-    <serverOutputDirectory>C:\Users\PetrKmoch\IdeaProjects\demoMicroLiberty\service-a\target\wlp-package\demo</serverOutputDirectory>
+    <installDirectory>C:\projects\accountng-ee\accounting-ee\service-a\target\liberty\wlp</installDirectory>
+    <serverDirectory>C:\projects\accountng-ee\accounting-ee\service-a\target\liberty\wlp\usr\servers\demo</serverDirectory>
+    <userDirectory>C:\projects\accountng-ee\accounting-ee\service-a\target\liberty\wlp\usr</userDirectory>
+    <serverOutputDirectory>C:\projects\accountng-ee\accounting-ee\service-a\target\wlp-package\demo</serverOutputDirectory>
     <serverName>demo</serverName>
-    <configDirectory>C:\Users\PetrKmoch\IdeaProjects\demoMicroLiberty\service-a\src\main\liberty\config</configDirectory>
-    <configFile>C:\Users\PetrKmoch\IdeaProjects\demoMicroLiberty\service-a\src\main\liberty\config\server.xml</configFile>
+    <configDirectory>C:\projects\accountng-ee\accounting-ee\service-a\src\main\liberty\config</configDirectory>
+    <configFile>C:\projects\accountng-ee\accounting-ee\service-a\src\main\liberty\config\server.xml</configFile>
     <bootstrapProperties>
         <jwt.issuer>https://server.example.com</jwt.issuer>
         <project.name>demo</project.name>
@@ -25,12 +25,39 @@
         <version>19.0.0.12</version>
         <type>zip</type>
     </assemblyArtifact>
-    <assemblyArchive>C:\Users\PetrKmoch\.m2\repository\io\openliberty\openliberty-kernel\19.0.0.12\openliberty-kernel-19.0.0.12.zip</assemblyArchive>
-    <assemblyInstallDirectory>C:\Users\PetrKmoch\IdeaProjects\demoMicroLiberty\service-a\target\liberty</assemblyInstallDirectory>
+    <assemblyArchive>C:\Users\Petr\.m2\repository\io\openliberty\openliberty-kernel\19.0.0.12\openliberty-kernel-19.0.0.12.zip</assemblyArchive>
+    <assemblyInstallDirectory>C:\projects\accountng-ee\accounting-ee\service-a\target\liberty</assemblyInstallDirectory>
     <refresh>false</refresh>
-    <installAppsConfigDropins>C:\Users\PetrKmoch\IdeaProjects\demoMicroLiberty\service-a\target\liberty\wlp\usr\servers\demo\configDropins\defaults\install_apps_configuration_1491924271.xml</installAppsConfigDropins>
+    <installAppsConfigDropins>C:\projects\accountng-ee\accounting-ee\service-a\target\liberty\wlp\usr\servers\demo\configDropins\defaults\install_apps_configuration_1491924271.xml</installAppsConfigDropins>
     <projectType>war</projectType>
     <projectCompileDependency>javax.transaction:javax.transaction-api:1.2</projectCompileDependency>
+    <projectCompileDependency>org.apache.cxf:cxf-rt-transports-http-jetty:2.7.6</projectCompileDependency>
+    <projectCompileDependency>org.apache.cxf:cxf-api:2.7.6</projectCompileDependency>
+    <projectCompileDependency>org.codehaus.woodstox:woodstox-core-asl:4.2.0</projectCompileDependency>
+    <projectCompileDependency>org.codehaus.woodstox:stax2-api:3.1.1</projectCompileDependency>
+    <projectCompileDependency>org.apache.ws.xmlschema:xmlschema-core:2.0.3</projectCompileDependency>
+    <projectCompileDependency>org.apache.geronimo.specs:geronimo-javamail_1.4_spec:1.7.1</projectCompileDependency>
+    <projectCompileDependency>wsdl4j:wsdl4j:1.6.3</projectCompileDependency>
+    <projectCompileDependency>org.apache.cxf:cxf-rt-core:2.7.6</projectCompileDependency>
+    <projectCompileDependency>com.sun.xml.bind:jaxb-impl:2.1.13</projectCompileDependency>
+    <projectCompileDependency>org.eclipse.jetty:jetty-server:8.1.7.v20120910</projectCompileDependency>
+    <projectCompileDependency>org.eclipse.jetty:jetty-continuation:8.1.7.v20120910</projectCompileDependency>
+    <projectCompileDependency>org.eclipse.jetty:jetty-http:8.1.7.v20120910</projectCompileDependency>
+    <projectCompileDependency>org.eclipse.jetty:jetty-io:8.1.7.v20120910</projectCompileDependency>
+    <projectCompileDependency>org.eclipse.jetty:jetty-util:8.1.7.v20120910</projectCompileDependency>
+    <projectCompileDependency>org.eclipse.jetty:jetty-security:8.1.7.v20120910</projectCompileDependency>
+    <projectCompileDependency>org.slf4j:slf4j-api:1.7.5</projectCompileDependency>
+    <projectCompileDependency>org.apache.geronimo.specs:geronimo-servlet_3.0_spec:1.0</projectCompileDependency>
+    <projectCompileDependency>org.apache.cxf:cxf-rt-transports-http:3.3.4</projectCompileDependency>
+    <projectCompileDependency>org.apache.cxf:cxf-core:3.3.4</projectCompileDependency>
+    <projectCompileDependency>org.glassfish.jaxb:jaxb-runtime:2.3.2</projectCompileDependency>
+    <projectCompileDependency>org.glassfish.jaxb:txw2:2.3.2</projectCompileDependency>
+    <projectCompileDependency>com.sun.istack:istack-commons-runtime:3.0.8</projectCompileDependency>
+    <projectCompileDependency>org.jvnet.staxex:stax-ex:1.8.1</projectCompileDependency>
+    <projectCompileDependency>com.sun.xml.fastinfoset:FastInfoset:1.2.16</projectCompileDependency>
+    <projectCompileDependency>jakarta.activation:jakarta.activation-api:1.2.1</projectCompileDependency>
+    <projectCompileDependency>com.fasterxml.woodstox:woodstox-core:5.0.3</projectCompileDependency>
+    <projectCompileDependency>jakarta.xml.bind:jakarta.xml.bind-api:2.3.2</projectCompileDependency>
     <projectCompileDependency>io.vertx:vertx-auth-jwt:3.8.1</projectCompileDependency>
     <projectCompileDependency>io.vertx:vertx-auth-common:3.8.1</projectCompileDependency>
     <projectCompileDependency>io.vertx:vertx-jwt:3.8.1</projectCompileDependency>

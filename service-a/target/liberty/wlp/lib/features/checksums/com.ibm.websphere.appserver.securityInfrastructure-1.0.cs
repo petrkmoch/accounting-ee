@@ -1,4 +1,4 @@
-#Fri Dec 20 19:26:04 CET 2019
+#Sun Dec 22 23:51:16 CET 2019
 lib/com.ibm.ws.security.token_1.0.35.jar=ec9152ac35045125c851343f9eaaf4af
 lib/com.ibm.ws.management.security_1.0.35.jar=6a8c7b692758f56b5e51d2bef3573236
 lib/com.ibm.ws.security.registry_1.0.35.jar=17b53353bb06c0ac4eac80368945a933

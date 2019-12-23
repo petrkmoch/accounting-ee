@@ -1,4 +1,4 @@
-#Fri Dec 20 19:26:05 CET 2019
+#Sun Dec 22 23:51:18 CET 2019
 lib/com.ibm.ws.security.token_1.0.35.jar=ec9152ac35045125c851343f9eaaf4af
 lib/com.ibm.ws.security.credentials.ssotoken_1.0.35.jar=c496bcd3d627f224f72fa0b4dfa983b4
 lib/features/com.ibm.websphere.appserver.ltpa-1.0.mf=603bd8fbff0c10f0bf3bb0762def12c4

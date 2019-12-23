@@ -1,4 +1,4 @@
-#Fri Dec 20 19:26:11 CET 2019
+#Sun Dec 22 23:51:27 CET 2019
 lib/features/com.ibm.websphere.appserver.restHandler-1.0.mf=7299482e8905132f7225418a11975c4f
 lib/com.ibm.ws.rest.handler_1.0.35.jar=eec3aa9c95467ac669a290e24a1e02ad
 dev/spi/ibm/com.ibm.websphere.appserver.spi.restHandler_2.0.35.jar=35c9d7d730ad55eb5aef03a0d415248a

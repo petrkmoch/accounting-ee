@@ -1,4 +1,4 @@
-#Fri Dec 20 19:26:14 CET 2019
+#Sun Dec 22 23:51:31 CET 2019
 lib/com.ibm.ws.security.mp.jwt_1.0.35.jar=b9b007852ac02b6672c3d6a3f22b4314
 lib/com.ibm.ws.org.apache.commons.logging.1.0.3_1.0.35.jar=42212ea18148af2b1556e360000bfd5a
 lib/com.ibm.ws.org.apache.commons.codec.1.4_1.0.35.jar=54ea7edfb32681efe636ac9ac2bb7a5a
